@@ -1,4 +1,4 @@
-# SALVE! Aqui é o Rennan! 👋
+# SALVE! Aqui é o Rennan! 👊
 
 Engenheiro de Telecomunicações atuando como **Analista de Core PS** na Unifique Telecomunicações. Minha trajetória técnica concentra-se em arquiteturas de Core Packet Móvel, automação de infraestruturas e aplicação de inteligência artificial em sistemas de comunicação sem fio.
 
